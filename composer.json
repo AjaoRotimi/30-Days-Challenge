@@ -1,0 +1,12 @@
+{
+    "name": "user/30dayschallenge",
+    "authors": [
+        {
+            "name": "Ajao-Rotimi Favour Inioluwa",
+            "email": "123903537+AjaoRotimi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
